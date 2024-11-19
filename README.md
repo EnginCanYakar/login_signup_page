@@ -7,5 +7,7 @@ This project is a Flutter-based Login and Signup interface designed with clean U
 - Aesthetic design with dark theme.
 - Ready to integrate with Firebase Authentication or other APIs.
 ## Screenshots
-### Login Page
-![Login Page](Assets/Login_SignUp.gif)
+### Login Page and Sign Up Page Look Like
+
+
+![Look Like](lib/Assets/Login_SignUp.gif)
